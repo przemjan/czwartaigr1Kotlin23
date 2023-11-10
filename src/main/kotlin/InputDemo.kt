@@ -14,7 +14,7 @@ fun main() {
 
     println("Numer buta: $numerButa, średnia: $average, nazwisko: $name")
 
-
+// https://github.com/przemjan/czwartaigr1Kotlin23
 
 
 }
